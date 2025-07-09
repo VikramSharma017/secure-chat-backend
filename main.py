@@ -1,3 +1,4 @@
+# Vikram Sharma
 from fastapi import FastAPI, Depends, HTTPException, status
 from fastapi.security import OAuth2PasswordBearer, OAuth2PasswordRequestForm
 from pydantic import BaseModel
@@ -204,3 +205,4 @@ async def list_messages(room_id: int, current_user=Depends(get_current_user)):
 async def list_users():
     query = users.select()
     return await database.fetch_all(query)
+#Vikram Sharma

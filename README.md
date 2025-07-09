@@ -59,3 +59,17 @@ A backend API for a chat messaging app built with FastAPI, PostgreSQL, and JWT a
 ## 👤 Author
 
 Vikram Sharma
+
+---
+### 📄 License
+# Secure Chat Backend
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+A FastAPI backend for secure chat messaging with JWT authentication.
+
+
+
+
+
+

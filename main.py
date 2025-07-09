@@ -1,4 +1,6 @@
-# Vikram Sharma
+# Author: Vikram Sharma
+# Project: FastAPI Chat Messaging API
+# Date: 2025-07-09
 from fastapi import FastAPI, Depends, HTTPException, status
 from fastapi.security import OAuth2PasswordBearer, OAuth2PasswordRequestForm
 from pydantic import BaseModel
